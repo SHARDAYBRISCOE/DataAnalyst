@@ -1,4 +1,4 @@
-# digitalcreativeinstitute
+# Data Analyst
 ## App Analysis Project
 ## https://www.loom.com/share/392601aedf044751bdd942ea98a34aa8
 
